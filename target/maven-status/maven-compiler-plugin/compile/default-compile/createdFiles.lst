@@ -1,0 +1,11 @@
+com\estockmarket\service\impl\CompanyService.class
+com\estockmarket\model\GatewayResponse.class
+com\estockmarket\module\DynamoDBModule.class
+com\estockmarket\domain\Company.class
+com\estockmarket\handler\LambdaFunctionProcessor.class
+com\estockmarket\handler\TaskMateRequestHandler.class
+com\estockmarket\domain\Company$CompanyBuilder.class
+com\estockmarket\exception\BusinessException.class
+com\estockmarket\model\RequestContext.class
+com\estockmarket\utils\CommonUtils.class
+com\estockmarket\model\GatewayProxyRequest.class
